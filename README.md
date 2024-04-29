@@ -1,16 +1,7 @@
-# flutter_application_1
+APK: https://github.com/juhfarias31/ConversorMonetario/blob/e584b6ae587629e0ec5e418e95c95e15479208cf/app-release.apk
 
-A new Flutter project.
+Print: ![ConversorMonetario](https://github.com/juhfarias31/ConversorMonetario/assets/133894616/89486b8e-e68f-4c68-8e5d-b140c79e74fb)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Descrição: Nesse projeto eu fiz uma aplicação no Flutter que vai calcular a conversão para real, dólar e euro. Na calculadora ao colocar um valor seja em real, dólar ou euro, já vai aparecer o resultado da conversão nas três moedas.
